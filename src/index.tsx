@@ -3,10 +3,14 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-
+// import LocaleProvider from 'antd/lib/locale-provider'
+// import enUS from 'antd/lib/locale-provider/en_US'
+// 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    {/* <LocaleProvider locale={enUS}> */}
+      <App />
+    {/* </LocaleProvider> */}
   </React.StrictMode>,
   document.getElementById('root')
 );
