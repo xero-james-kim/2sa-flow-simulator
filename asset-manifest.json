@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/2sa-flow-simulator/static/css/main.d6efccc8.chunk.css",
-    "main.js": "/2sa-flow-simulator/static/js/main.c8f62124.chunk.js",
-    "main.js.map": "/2sa-flow-simulator/static/js/main.c8f62124.chunk.js.map",
-    "runtime-main.js": "/2sa-flow-simulator/static/js/runtime-main.0356a076.js",
-    "runtime-main.js.map": "/2sa-flow-simulator/static/js/runtime-main.0356a076.js.map",
-    "static/css/2.befe74f4.chunk.css": "/2sa-flow-simulator/static/css/2.befe74f4.chunk.css",
-    "static/js/2.c27a1c10.chunk.js": "/2sa-flow-simulator/static/js/2.c27a1c10.chunk.js",
-    "static/js/2.c27a1c10.chunk.js.map": "/2sa-flow-simulator/static/js/2.c27a1c10.chunk.js.map",
-    "index.html": "/2sa-flow-simulator/index.html",
-    "precache-manifest.86c5ef5aca1358c16d92d02c204ba06d.js": "/2sa-flow-simulator/precache-manifest.86c5ef5aca1358c16d92d02c204ba06d.js",
-    "service-worker.js": "/2sa-flow-simulator/service-worker.js",
-    "static/css/2.befe74f4.chunk.css.map": "/2sa-flow-simulator/static/css/2.befe74f4.chunk.css.map",
-    "static/css/main.d6efccc8.chunk.css.map": "/2sa-flow-simulator/static/css/main.d6efccc8.chunk.css.map",
-    "static/js/2.c27a1c10.chunk.js.LICENSE.txt": "/2sa-flow-simulator/static/js/2.c27a1c10.chunk.js.LICENSE.txt"
+    "main.css": "/2sa-flow-simulator2/static/css/main.d6efccc8.chunk.css",
+    "main.js": "/2sa-flow-simulator2/static/js/main.260dd4a7.chunk.js",
+    "main.js.map": "/2sa-flow-simulator2/static/js/main.260dd4a7.chunk.js.map",
+    "runtime-main.js": "/2sa-flow-simulator2/static/js/runtime-main.7dc6069f.js",
+    "runtime-main.js.map": "/2sa-flow-simulator2/static/js/runtime-main.7dc6069f.js.map",
+    "static/css/2.befe74f4.chunk.css": "/2sa-flow-simulator2/static/css/2.befe74f4.chunk.css",
+    "static/js/2.c27a1c10.chunk.js": "/2sa-flow-simulator2/static/js/2.c27a1c10.chunk.js",
+    "static/js/2.c27a1c10.chunk.js.map": "/2sa-flow-simulator2/static/js/2.c27a1c10.chunk.js.map",
+    "index.html": "/2sa-flow-simulator2/index.html",
+    "precache-manifest.7560841994713f421f68724748c954a4.js": "/2sa-flow-simulator2/precache-manifest.7560841994713f421f68724748c954a4.js",
+    "service-worker.js": "/2sa-flow-simulator2/service-worker.js",
+    "static/css/2.befe74f4.chunk.css.map": "/2sa-flow-simulator2/static/css/2.befe74f4.chunk.css.map",
+    "static/css/main.d6efccc8.chunk.css.map": "/2sa-flow-simulator2/static/css/main.d6efccc8.chunk.css.map",
+    "static/js/2.c27a1c10.chunk.js.LICENSE.txt": "/2sa-flow-simulator2/static/js/2.c27a1c10.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0356a076.js",
+    "static/js/runtime-main.7dc6069f.js",
     "static/css/2.befe74f4.chunk.css",
     "static/js/2.c27a1c10.chunk.js",
     "static/css/main.d6efccc8.chunk.css",
-    "static/js/main.c8f62124.chunk.js"
+    "static/js/main.260dd4a7.chunk.js"
   ]
 }
